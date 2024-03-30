@@ -2,7 +2,7 @@
     "name": "Azul Connect",
     "description": "An extension to help project ideas flourish",
     "version": "1.0",
-    "manifest_version": "3",
+    "manifest_version": 3,
     "action": {
         "default_popup": "azul.html",
         "default_icon": "Error 404 Logo Trimmed.jpg"
