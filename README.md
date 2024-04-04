@@ -1,6 +1,6 @@
 # E̶r̸r̴o̵r̵ ̶4̸0̷4̸ - Azul Connect
 
-![Group Logo]("Error 404 Logo.jpg")
+![Error 404 Logo.jpg](https://github.com/IntrixTheName/Error404/blob/c17b5343e40100331db39d85264d0561f0285e1e/Error%20404%20Logo.jpg)
 
 Project group "Error 404" for the 2024 EagleHacks Hackathon event.
 
