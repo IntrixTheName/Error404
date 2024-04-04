@@ -1,5 +1,79 @@
 <html>
+    <head>
+        <style>
+            :root {
+                /* Project Colors, made vars for  */
+                --primary1: #073242;
+                --primary1_bkgd: #07324288;
+
+                --primary2: #248188;
+                --primary2_bkgd: #24818888;
+
+                --accent1: #CC8A1C;
+                --accent1_bkgd: #CC8A1C88;
+
+                --accent2: #99C1C0;
+                --accent2_bkgd: #99C1C088;
+            }
+            @font-face {
+                font-family: "Montserrat-Bold";
+                src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
+            }
+            @font-face {
+                font-family: "Montserrat";
+                src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+            }
+
+            html {
+                height: 736px;
+                width: 414px;
+                background-color: var(--accent2_bkgd);
+            }
+
+            h1, h2, h3, h4, h5, h6 {
+                font-family: "Montserrat-Bold", sans-serif;
+            }
+
+            p {
+                font-family: "Montserrat", sans-serif;
+            }
+
+            ul {
+                list-style: none;
+                justify-content: left;
+                padding: 10px 20px;
+                width: 80%;
+            }
+            li {
+                border: 2px solid var(--primary1);
+                border-radius: 5px;
+                padding: 10px 20px;
+                margin: 10px;
+                width: 95%;
+            }
+        </style>
+    </head>
+
     <body>
         <h1>Azul Connect</h1>
+        <ul>
+            <li>
+                <h2>Project Connect</h2>
+                <h3><a href="mailto:bpwalby7143@eagle.fgcu.edu">Bradley</a>, Vasil, Bilal, Sheryll</h3>
+                <p>Creating a Chrome extension to connect people with projects they can help with</p>
+            </li>
+
+            <li>
+                <h2>Hackathon!!!</h2>
+                <h3>SE Club</h3>
+                <p>Learn & grow together while brainstorming creative approaches</p>
+            </li>
+
+            <li>
+                <h2>Small Game Idea</h2>
+                <h3>Jane Smith, [???], [???]</h3>
+                <p>Building a card-based video game</p>
+            </li>
+        </ul>
     </body>
 </html>
