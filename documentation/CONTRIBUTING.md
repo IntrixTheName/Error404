@@ -20,11 +20,11 @@ We welcome the following types of contributions:
 
 ## Code of Conduct
 
-Please adhere to our [Code of Conduct]() when participating in this project.
+Please adhere to our [Code of Conduct](https://github.com/IntrixTheName/Error404/blob/main/documentation/CODE_OF_CONDUCT.md) when participating in this project.
 
 ## Licensing
 
-Our project is licensed under the MIT License. By contributing, you agree to license your contributions under the same terms.
+Our project is licensed under the [MIT License](https://github.com/IntrixTheName/Error404/blob/main/LICENSE). By contributing, you agree to license your contributions under the same terms.
 
 
 
