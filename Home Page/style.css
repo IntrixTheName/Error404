@@ -1,0 +1,475 @@
+.recent-project-tabs,
+.recent-project-tabs * {
+  box-sizing: border-box;
+}
+.recent-project-tabs {
+  background: #ffffff;
+  height: 783px;
+  position: relative;
+  overflow: hidden;
+}
+.ellipse-1 {
+  background: #317d71;
+  border-radius: 50%;
+  width: 435px;
+  height: 423px;
+  position: absolute;
+  left: 250px;
+  top: 486px;
+}
+.ellipse-2 {
+  background: #ffffff;
+  border-radius: 50%;
+  width: 347px;
+  height: 337px;
+  position: absolute;
+  left: 294px;
+  top: 529px;
+}
+.circle-color-combo-g-teal {
+  position: absolute;
+  inset: 0;
+}
+.ellipse-12 {
+  background: #317d71;
+  border-radius: 50%;
+  width: 282px;
+  height: 274px;
+  position: absolute;
+  left: -91px;
+  top: -64px;
+}
+.ellipse-3 {
+  background: #316b7d;
+  border-radius: 50%;
+  width: 216px;
+  height: 220px;
+  position: absolute;
+  left: -58px;
+  top: -43px;
+}
+.ellipse-13 {
+  width: 380px;
+  height: 364px;
+  position: absolute;
+  left: 207px;
+  top: -26px;
+  overflow: visible;
+  object-fit: cover;
+}
+.search-bar {
+  width: 429px;
+  height: 46px;
+  position: absolute;
+  left: 36px;
+  top: 131px;
+  overflow: visible;
+}
+.recent-project-header {
+  width: 404px;
+  height: 65px;
+  position: absolute;
+  left: 48px;
+  top: 261px;
+}
+.title-header {
+  background: #d9d9d9;
+  border-radius: 10px;
+  opacity: 0.6000000238418579;
+  width: 404px;
+  height: 65px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.recent-projects {
+  color: rgba(0, 0, 0, 0.57);
+  text-align: left;
+  font-family: var(--heading-font-family, "InriaSans-Bold", sans-serif);
+  font-size: var(--heading-font-size, 32px);
+  line-height: var(--heading-line-height);
+  font-weight: var(--heading-font-weight, 700);
+  position: absolute;
+  left: 16px;
+  top: 5px;
+  width: 339px;
+  height: 54px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.project-dialog {
+  width: 404px;
+  height: 405px;
+  position: absolute;
+  left: 48px;
+  top: 343px;
+}
+.project-description {
+  background: #d9d9d9;
+  border-radius: 33px;
+  opacity: 0.800000011920929;
+  width: 404px;
+  height: 405px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.project-title {
+  color: rgba(0, 0, 0, 0.5);
+  text-align: left;
+  font-family: "InriaSans-Bold", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  position: absolute;
+  left: 16px;
+  top: 22px;
+  width: 208px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact-jill-project-org-jane-project-org {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSans-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 20px;
+  top: 112px;
+  width: 182px;
+  height: 51px;
+}
+.members-jill-jane {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSans-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 19px;
+  top: 97px;
+  width: 179px;
+  height: 22px;
+}
+.project-description-inner {
+  background: #c5c1c1;
+  border-radius: 33px;
+  opacity: 0.800000011920929;
+  width: 402px;
+  height: 232px;
+  position: absolute;
+  left: 2px;
+  top: 170px;
+}
+.tech-stack-html-css {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSans-Bold", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  position: absolute;
+  left: 232px;
+  top: 104px;
+  width: 128px;
+  height: 39px;
+}
+.description {
+  color: rgba(0, 0, 0, 0.8);
+  text-align: left;
+  font-family: "InriaSans-BoldItalic", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 25px;
+  top: 172px;
+  width: 85px;
+  height: 31px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-ut-enim-ad-minim-veniam-quis-nostrud-exercitation-ullamco-laboris-nisi-ut-aliquip-ex-ea-commodo-consequat-duis-aute-irure-dolor-in-reprehenderit-in-voluptate-velit-esse-cillum-dolore-eu {
+  color: rgba(0, 0, 0, 0.75);
+  text-align: left;
+  font-family: "InriaSans-Italic", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: true;
+  position: absolute;
+  left: 24px;
+  top: 212px;
+  width: 348px;
+  height: 132px;
+}
+.more {
+  width: 47px;
+  height: 29px;
+  position: absolute;
+  left: 328px;
+  top: 328px;
+}
+.polygon-1 {
+  width: 22px;
+  height: 29px;
+  position: absolute;
+  left: 25px;
+  top: 0px;
+  overflow: visible;
+}
+.more2 {
+  color: #000000;
+  text-align: left;
+  font-family: "InriaSans-BoldItalic", sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 0px;
+  top: 6px;
+}
+.btn-add-project {
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  left: 170px;
+  top: 373px;
+}
+.ellipse-122 {
+  background: #d9d9d9;
+  border-radius: 50%;
+  width: 57px;
+  height: 57px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.add-button {
+  width: 19px;
+  height: 21px;
+  position: absolute;
+  left: 19px;
+  top: 18px;
+  overflow: visible;
+}
+.tech-stack-selection {
+  width: 419px;
+  height: 44px;
+  position: absolute;
+  left: 42px;
+  top: 199px;
+}
+.tech-bar {
+  background: #c0bdbd;
+  border-radius: 20px;
+  opacity: 0.699999988079071;
+  width: 419px;
+  height: 44px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+}
+.tech-stack-selection-button {
+  width: 399px;
+  height: 32px;
+  position: absolute;
+  left: 9px;
+  top: 6px;
+}
+.frame-25 {
+  width: 71px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-1 {
+  background: #eae9e9;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #807878;
+  border-width: 1px;
+  width: 71px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.c-c {
+  color: #000000;
+  text-align: center;
+  font-family: "InriaSans-BoldItalic", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 7px;
+  top: 10px;
+  width: 57px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-24 {
+  width: 71px;
+  height: 32px;
+  position: absolute;
+  left: 164px;
+  top: 0px;
+}
+.rectangle-3 {
+  background: #eae9e9;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #807878;
+  border-width: 1px;
+  width: 71px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.html-css {
+  color: #000000;
+  text-align: center;
+  font-family: "InriaSans-BoldItalic", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 8px;
+  top: 10px;
+  width: 57px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-23 {
+  width: 71px;
+  height: 32px;
+  position: absolute;
+  left: 83px;
+  top: 0px;
+}
+.rectangle-2 {
+  background: #eae9e9;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #807878;
+  border-width: 1px;
+  width: 71px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.python {
+  color: #000000;
+  text-align: center;
+  font-family: "InriaSans-BoldItalic", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 9px;
+  top: 10px;
+  width: 57px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-22 {
+  width: 71px;
+  height: 32px;
+  position: absolute;
+  left: 246px;
+  top: 0px;
+}
+.rectangle-4 {
+  background: #eae9e9;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #807878;
+  border-width: 1px;
+  width: 71px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.react {
+  color: #000000;
+  text-align: center;
+  font-family: "InriaSans-BoldItalic", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 7px;
+  top: 10px;
+  width: 57px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-21 {
+  width: 71px;
+  height: 32px;
+  position: absolute;
+  left: 328px;
+  top: 0px;
+}
+.rectangle-5 {
+  background: #eae9e9;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #807878;
+  border-width: 1px;
+  width: 71px;
+  height: 32px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.assembly {
+  color: #000000;
+  text-align: center;
+  font-family: "InriaSans-BoldItalic", sans-serif;
+  font-size: 12px;
+  font-weight: 700;
+  font-style: true;
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 55px;
+  height: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.l {
+  width: 23.09px;
+  height: 16.92px;
+  position: absolute;
+  left: -9.17px;
+  top: 33px;
+  transform: translate(0.26px, -22.71px);
+  overflow: visible;
+}
+.r {
+  width: 23.09px;
+  height: 16.92px;
+  position: absolute;
+  left: 429.2px;
+  top: 11.21px;
+  transform: translate(-17.2px, -0.21px);
+  overflow: visible;
+}
