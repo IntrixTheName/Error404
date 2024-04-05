@@ -4,6 +4,8 @@
 
 Project group "Error 404" for the 2024 EagleHacks Hackathon event.
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/IntrixTheName/Error404/badge?style=flat)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/IntrixTheName/Error404)
+
 ## Project Vision & Overview
 
 The vision of this project is to unite those with ideas to those who can help. Many ideas go unrealized because it's unreasonable to expect a person to have *every*. *single* *piece*. of information they need to follow through with a project idea (side note from Brad- I have personal anecdotes of projects sitting half-complete in GitHub repositories because I hit a brick wall of knowledge at the time).
