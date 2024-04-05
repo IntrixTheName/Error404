@@ -1,5 +1,10 @@
 <html>
     <head>
+        <!-- Linking Montserrat font from Google Fonts API -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+        
         <style>
             :root {
                 /* Project Colors, made vars for  */
@@ -15,14 +20,6 @@
                 --accent2: #99C1C0;
                 --accent2_bkgd: #99C1C088;
             }
-            @font-face {
-                font-family: "Montserrat-Bold";
-                src: url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
-            }
-            @font-face {
-                font-family: "Montserrat";
-                src: url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
-            }
 
             html {
                 height: 736px;
@@ -31,12 +28,14 @@
             }
 
             h1, h2, h3, h4, h5, h6 {
-                font-family: "Montserrat-Bold", sans-serif;
+                font-family: "Montserrat", sans-serif;
+                font-weight: 700; /* Bold weight */
             }
 
             p {
                 font-family: "Montserrat", sans-serif;
                 font-size: small;
+                font-weight: 500;
             }
 
             ul {
@@ -66,7 +65,7 @@
                 <p>
                     <a href="https://github.com/IntrixTheName/Error404" target="_blank">
                     <img src="github.png" alt="GitHub" width="20" height="20">
-                </p>
+                </a></p>
                 
             </li>
 
