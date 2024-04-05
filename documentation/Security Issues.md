@@ -1,9 +1,10 @@
 # Reporting Security Issues or Vulnerabilities
 If you come across a security issue or vulnerability while using the extension, please let us know as soon as possible!
-- Follow the same process for reporting bugs ([see here for steps](https://github.com/VTIvanovIII/PythonIntegration/blob/main/report_process/Reporting%20Bugs.md)).
-- Use the orange "site vulnerability" label.
+- Follow the same process for reporting bugs ([see here for steps](https://github.com/IntrixTheName/Error404/blob/main/documentation/Reporting%20Bugs.md)).
+- Use the orange "security" label.
 - Include a date and time stamp in the report.
-    - Yes, I know GitHub does that already, just include it.  It helps me understand the site's history.
-- For privacy, email me at [vti3@icloud.com](mailto:vti3@icloud.com) immediately after submitting the report on GitHub.  Include your GitHub username in the email so I know who you are.
+    - Yes, I know GitHub does that already, just include it.  It helps us understand the extension's history.
+- (OPTIONAL) For privacy, email one of us immediately after submitting the report on GitHub.  Include your GitHub username in the email so we know who you are.
+    - Our contact information can be found here or by viewing the "Contact Us.md" file in the "documentation" folder.
 
-I take security vulnerabilities extremely seriously.  Please let me know *immediately* if you spot something.
+At Error 404, we take security vulnerabilities extremely seriously.  Please let us know *immediately* if you spot something.  No matter how big or small a security flaw can be, it could be extorted and exploited by attackers.  That could cause either us developers or you users, or both.  That's no good!
