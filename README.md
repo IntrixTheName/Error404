@@ -5,6 +5,10 @@
 Project group "Error 404" for the 2024 EagleHacks Hackathon event.
 
 [![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/IntrixTheName/Error404/badge?style=flat)](htt‌ps://securityscorecards.dev/viewer/?uri=github.com/IntrixTheName/Error404)
+![Static Badge](https://img.shields.io/badge/language-HTML-blue)
+![Static Badge](https://img.shields.io/badge/license-MIT-crimson)
+
+
 
 ## Project Vision & Overview
 
