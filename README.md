@@ -18,12 +18,12 @@ Introducing Azul Connect, a Chrome-based extension that allows users within a co
 
 ## Current Prototype
 
-> Note: This section still needs additions
-
-The current prototype is limited in functionality due to the limited timescale of the proposal design sprint. Currently, it has a proof-of-concept with hard-coded examples of what posts might look like, along with a general approach to styling.
+The current prototype is limited in functionality due to the limited timescale of the proposal design sprint. Currently, it has a proof-of-concept with hard-coded examples of what posts might look like, along with a general approach to styling. A PowerPoint consisting of a brief overview and link to Figma mockup are included in the repository.
 
 ## Future Development & Intended Progression
 
-> Note: This section still needs additions
-
 The grander plan for Azul Connect consists of making a fully-functional extension that could reach out to a database locally-maintained by each individual community, where these projects could be loaded live to the extension through added JavaScript functionality. Additionally, clicking on any of the line items could open a new tab containing extended information about the project like additional context, reports on current progress, links to project resources, and potentially a limited message board to engage with prospective project players.
+
+Firstly, for the database solution: Using a document-style database like MongoDB would well-suited for this project. It would be easy to store each post like a document and keep a log of conversation associated with the project. The structure would be easier to retrieve data from compared to a SQL solution.
+
+Secondly, the ability to open extended details of a project can keep the initial user interface simple to use. If a user wants to learn more, it is also helpful to make the additional information knowm. All about simplicity!
