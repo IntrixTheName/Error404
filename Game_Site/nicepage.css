@@ -42570,7 +42570,7 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-image-1 {
   width: 64px;
-  height: 32px;
+  height: 64px;
   margin: 22px auto 0 0;
 }
 
@@ -42585,7 +42585,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-nav-1 {
   font-size: 1rem;
-  letter-spacing: 0px;
 }
 
 .u-header .u-nav-2 {
@@ -42594,6 +42593,10 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     width: auto;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 }
 
