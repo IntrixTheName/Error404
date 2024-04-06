@@ -5,6 +5,6 @@
     "manifest_version": 3,
     "action": {
         "default_popup": "azul.html",
-        "default_icon": "Error 404 Logo Trimmed.jpg"
+        "default_icon": "Error 404 Logo Trimmed.png"
     }
 }

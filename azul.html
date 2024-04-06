@@ -24,12 +24,39 @@
             html {
                 height: 736px;
                 width: 414px;
-                background-color: var(--accent2_bkgd);
+                background-color: var(--primary1);
             }
 
-            h1, h2, h3, h4, h5, h6 {
+            body {
+                display: flex;
+                /*align-items: ;*/
+            }
+
+            /*.box {
+                display: flex;
+                align-items: center;
+                float: left;
+                padding: 10px;
+                margin: 10px;
+                /*grid-template-columns: 1fr 1fr 1fr;
+                width: 90%;
+            }*/
+
+            .content {
+                display: flex;
+                float: left;
+                width: 90%;
+            }
+
+            h1 {
+                color: #FFFFFF;
                 font-family: "Montserrat", sans-serif;
                 font-weight: 700; /* Bold weight */
+            }
+
+            h2, h3, h4, h5, h6 {
+                color: #000000;
+                width: 100%;
             }
 
             p {
@@ -46,6 +73,7 @@
             }
             li {
                 border: 2px solid var(--primary1);
+                background-color: #FFFFFF;
                 border-radius: 5px;
                 padding: 10px 20px;
                 margin: 10px;
@@ -55,31 +83,38 @@
     </head>
 
     <body>
-        <h1>Azul Connect</h1>
-        <ul>
-            <li>
-                <!-- Vasil: Figured out how to open a new tab with a link!  target="_blank" -->
-                <h2><a href="/project_connect.html" target="_blank">Project Connect</a></h2>
-                <h3><a href="mailto:bpwalby7143@eagle.fgcu.edu">Bradley</a>, <a href="mailto:vtivanoviii5757@eagle.fgcu.edu">Vasil</a>, <a href="mailto:bdogutas4562@eagle.fgcu.edu">Bilal</a>, Sheryll</h3>
-                <p>Creating a Chrome extension to connect people with projects they can help with</p>
-                <p>
-                    <a href="https://github.com/IntrixTheName/Error404" target="_blank">
-                    <img src="github.png" alt="GitHub" width="20" height="20">
-                </a></p>
-                
-            </li>
-
-            <li>
-                <h2>Hackathon!!!</h2>
-                <h3>SE Club</h3>
-                <p>Learn & grow together while brainstorming creative approaches</p>
-            </li>
-
-            <li>
-                <h2><a href="/GameSite/Home.html" target="_blank">Small Game Idea</a></h2>
-                <h3>Jane Smith, [???], [???]</h3>
-                <p>Building a card-based video game</p>
-            </li>
-        </ul>
+        <div class="box">
+            <img src="Error 404 Logo Trimmed.png" width=50px height=50px>
+            <h1>Azul Connect</h1>
+            <ul>
+                <li>
+                    <!-- Vasil: Figured out how to open a new tab with a link!  target="_blank" -->
+                    <h2><a href="/project_connect.html" target="_blank">Project Connect</a></h2>
+                    <h3><a href="mailto:bpwalby7143@eagle.fgcu.edu">Bradley</a>, <a href="mailto:vtivanoviii5757@eagle.fgcu.edu">Vasil</a>, <a href="mailto:bdogutas4562@eagle.fgcu.edu">Bilal</a>, Sheryll</h3>
+                    <p>Creating a Chrome extension to connect people with projects they can help with</p>
+                    <p>
+                        <a href="https://github.com/IntrixTheName/Error404" target="_blank">
+                        <img src="github.png" alt="GitHub" width="20" height="20">
+                    </a></p>
+                    
+                </li>
+    
+                <li>
+                    <h2>Hackathon!!!</h2>
+                    <h3>SE Club</h3>
+                    <p>Learn & grow together while brainstorming creative approaches</p>
+                </li>
+    
+                <li>
+                    <h2><a href="/GameSite/Home.html" target="_blank">Small Game Idea</a></h2>
+                    <h3>Jane Smith, [???], [???]</h3>
+                    <p>Building a card-based video game</p>
+                </li>
+            </ul>
+        </div>
+            
+        <div>
+            
+        </div>
     </body>
 </html>
